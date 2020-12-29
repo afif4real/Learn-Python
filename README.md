@@ -1,3 +1,3 @@
 # belajar-py
 
-code2 belajar python
+python learning code
